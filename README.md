@@ -8,9 +8,6 @@ This project includes a simple login form design using HTML and CSS. The backgro
 2. Open the downloaded files in a text editor.
 3. Open the `index.html` file in a web browser to display the entry form.
 
-## Screenshot
-
-![Screenshot](screenshot.png)
 
 ## Contribute
 
